@@ -1,1 +1,3 @@
-#Resume-microservice front
+To run simply : 
+`yarn`
+followed by `yarn start`
